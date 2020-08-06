@@ -5,3 +5,5 @@ here are the list of items
 chocolate
 
 groceries
+
+vegetables
